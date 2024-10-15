@@ -1,0 +1,1 @@
+projects,and resume. Use HTML for structure,CSS for styling, and add a touch of JavaScript for interactivity. Handwritten Character Recognition Create a hand written character recognition system that can recognize various handwritten characters or alphabets. You can extend this to recognize entire words or sentences.
